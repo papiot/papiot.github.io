@@ -47,9 +47,9 @@ This book is very fun to read, but not easy and the content is very dense. It to
 
 Am început din nou să citesc în romănește. Am mai făcut-o în trecut, dar în ultimul an mi-am dat silința să citesc scrieri mai complicate. Una dintre cărțile pe care le-am citit m-a influențat foarte mult.
 
-Este greu de simplificat și de a face comentariu unei cărți scrise de Mircea Eliade în câteva rânduri, dar vreau să vă spun că aceasta carte mi-a stârnit un set de emoții pe care nu le mai simțisem de mult. Deșii cartea în sine vorbește despre filosofie și religie, eu mi-am regăsit munca și craftul în acele idei.
+Este greu de simplificat și de a face comentariu unei cărți scrise de Mircea Eliade în câteva rânduri, dar vreau să vă spun că aceasta carte mi-a stârnit un set de emoții pe care nu le mai simțisem de mult. Deși cartea în sine vorbește despre filosofie și religie, eu mi-am regăsit munca și craftul în acele idei.
 
-În munca de software engineer pe care o fac zilnic, sunt to timpul prins intre abstract (teoria computației și cum funcționează un computer la nivel de atomi) și concretul - care în linia mea de munca înseamnă “ce tehnologie, adică framework, limbaj de programare, etc să mai învăț că să pot să-mi fac jobu mai eficient”. Am să mai vorbesc despre asta în alt articol.
+În munca de software engineer pe care o fac zilnic, sunt tot timpul prins intre abstract (teoria computației și cum funcționează un computer la nivel de atomi) și concretul - care în linia mea de munca înseamnă “ce tehnologie, adică framework, limbaj de programare, etc să mai învăț că să pot să-mi fac jobu mai eficient”. Am să mai vorbesc despre asta în alt articol.
 
 
 [(link to the book)](https://humanitas.ro/humanitas/carte/faurari-si-alchimisti){:target="_blank"} <br>
