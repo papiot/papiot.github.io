@@ -4,7 +4,8 @@ title: Books, Articles and other media I enjoyed in 2021 and before
 date: 2022-01-31
 categories: AI
 ---
-
+![image-title-here](/assets/mtl_2022.jpg){:class="img-responsive"}
+*Source: Catalin Avram - photo taken in La Prairie, Montreal, Canada, Dec, 2021*
 
 ## Intro
 I consume a lot of content. I try to be more and more selective with the content itself and in my quest for filtering the information flow, I have decided to look back and see which pieces of media I found really interesting in the last while. I intend to do this every year - however this first post will also include things from before 2021. 

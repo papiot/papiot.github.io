@@ -6,6 +6,7 @@ categories: AI
 ---
 
 ![image-title-here](/assets/bv_2023.jpg){:class="img-responsive"}
+*Source: Catalin Avram - photo taken in lovely Brașov, Romania, Dec 31, 2022*
 
 ## Intro
 Keeping up with the yearly tradition, here is a list of books, articles and other media I have found interesting this year.
