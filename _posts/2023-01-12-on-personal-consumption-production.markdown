@@ -5,6 +5,10 @@ date: 2023-01-12
 categories: AI
 ---
 
+![image-title-here](/assets/bv_2022_dec31.jpg){:class="img-responsive"}
+*Source: Catalin Avram - photo taken in lovely Brașov, Romania, Dec 31, 2022*
+
+## Intro 
 I have recently made a claim which states that I want to produce more than I consume this year (and going forward). This needs to come with some clarifications on how to actually measure this consumption and production. I thought about all aspects of daily life and here are my guidelines
 
 ### Food and Water
