@@ -16,7 +16,7 @@ I have many topics I want to write about and that’s one thing that kept me bac
 
 Should I post on LinkedIn? Medium? Twitter? etc?
 
-Should I write in Romania or English (the two languages I speak and write in fluently?)
+Should I write in Romanian or English (the two languages I speak and write in fluently?)
 
 My brain is almost exploding in this tension, so I decided to just write about anything, whatever comes to mind, and let any kind of emergence build itself from the chaos.
 
