@@ -5,7 +5,7 @@ date: 2025-04-24
 categories: AI
 ---
 
-![image-title-here](/assets/bv_2025_apr_23.jpeg){:class="img-responsive"}
+![image-title-here](/assets/bv_2025_apr23.jpeg){:class="img-responsive"}
 *Source: Catalin Avram - photo taken in lovely Brașov, Romania, Apr 23, 2025*
 
 ## Intro
