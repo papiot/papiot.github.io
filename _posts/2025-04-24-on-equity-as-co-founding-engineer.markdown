@@ -5,13 +5,13 @@ date: 2025-04-24
 categories: AI
 ---
 
-![image-title-here](/assets/bv_2025_apr23.jpeg){:class="img-responsive"}
-*Source: Catalin Avram - photo taken in lovely Brașov, Romania, Apr 23, 2025*
-
 ## Intro
 In the startup world usually someone comes up with the money, but they need someone else to implement their ideas. Because it’s a startup, by definition they’re not generating revenue and are burning money, so the engineer/s they’re hiring must be (extremely) underpaid compared to their market value. If you’re a software engineer, at the beginning of your career, be careful!
 
 Be very wary of accepting an extremely underpaid job for small equity (like 2-3%) of a startup that is not making money and has 90% chance of failing.
+
+![image-title-here](/assets/bv_2025_apr23.jpeg){:class="img-responsive"}
+*Source: Catalin Avram - photo taken in lovely Brașov, Romania, Apr 23, 2025*
 
 ### A Gamble
 Unless you accept the fact that you’re entering a gamble, don’t accept this kind of agreement. Usually people write and talk about startups that take off (like Facebook, airbnb, instagram, etc) or others that flop (too many to count). These are the happy cases. Let me talk about a personal experience, where I spent 8 years of my career deadlocked in the purgatory of businesses. 
